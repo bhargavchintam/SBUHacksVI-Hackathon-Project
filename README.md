@@ -1,11 +1,6 @@
 
 # Virtual AI Board
 
-## Demonstration
-- Hand actions for drawing, erasing and changing colors are demonstrated in the video below
-
-https://github.com/VSMourya/Virual-AI-board/assets/30852815/45149548-5ffb-4049-a5f1-107dd2649944
-
 ## Introduction
 This project is designed to create a virtual AI board that can recognize and interpret hand gestures in real-time. It uses advanced machine learning algorithms to process video input and identify specific hand markers and actions.
 
