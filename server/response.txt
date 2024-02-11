@@ -1,0 +1,6 @@
+- A transistor is a tiny electronic switch that controls the flow of electric current.
+- Transistors are made of semiconductors, materials that conduct electricity better than insulators but not as well as metals.
+- By doping a semiconductor with impurities, it is possible to create n-type semiconductors, which have more mobile electrons, and p-type semiconductors, which have more mobile holes.
+- A transistor is made of both n-type and p-type semiconductors, and it has three electrical contacts: the source, the drain, and the gate.
+- When a voltage is applied to the gate, it can control the flow of current between the source and the drain.
+- Transistors are used in all electronic devices, from computers to phones to TVs.
